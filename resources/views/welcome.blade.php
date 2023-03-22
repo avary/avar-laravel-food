@@ -1,7 +1,7 @@
 <x-guest-layout>
     <!-- Main Hero Content -->
     <div class="container max-w-lg px-4 py-32 mx-auto text-left bg-center bg-no-repeat bg-cover md:max-w-none md:text-center"
-        style="background-image: url('https://cdn.pixabay.com/photo/2016/11/18/14/39/beans-1834984_960_720.jpg')">
+        style="background-image: url('avar-food.jpg')">
         <h1
             class="font-mono text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500 md:text-center sm:leading-none lg:text-5xl">
             <span class="inline md:block">Welcome To avar's Restaurant</span>
@@ -53,7 +53,7 @@
                 </div>
                 <div class="w-full md:w-1/2">
                     <div class="w-full h-auto overflow-hidden rounded-md shadow-xl sm:rounded-xl">
-                        <img src="https://cdn.pixabay.com/photo/2017/08/03/13/30/people-2576336_960_720.jpg" />
+                        <img src="polu.jpg" />
                     </div>
                 </div>
             </div>
@@ -106,7 +106,7 @@
                 </div>
                 <div class="w-full px-3 mb-12 lg:w-1/2 order-0 lg:order-1 lg:mb-0"><img
                         class="mx-auto sm:max-w-sm lg:max-w-full"
-                        src="https://cdn.pixabay.com/photo/2020/12/31/12/28/cook-5876388_960_720.png"
+                        src="lagman.jpeg"
                         alt="feature image"></div>
             </div>
         </div>
@@ -147,7 +147,7 @@
             <div class="max-w-md p-4 bg-white rounded-lg shadow-lg">
                 <div class="flex justify-center -mt-16 md:justify-end">
                     <img class="object-cover w-20 h-20 border-2 border-green-500 rounded-full"
-                        src="https://images.unsplash.com/photo-1499714608240-22fc6ad53fb2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80">
+                        src="mehman1.jpg">
                 </div>
                 <div>
                     <h2 class="text-3xl font-semibold text-gray-800">Delicious food</h2>
@@ -164,7 +164,7 @@
             <div class="max-w-md p-4 bg-white rounded-lg shadow-lg">
                 <div class="flex justify-center -mt-16 md:justify-end">
                     <img class="object-cover w-20 h-20 border-2 border-green-500 rounded-full"
-                        src="https://cdn.pixabay.com/photo/2018/01/04/21/15/young-3061652__340.jpg">
+                        src="mehman2.jpg">
                 </div>
                 <div>
                     <h2 class="text-3xl font-semibold text-gray-800">Tasty</h2>
@@ -175,13 +175,13 @@
                         minus consequuntur!</p>
                 </div>
                 <div class="flex justify-end mt-4">
-                    <a href="#" class="text-xl font-medium text-green-500">Gamze</a>
+                    <a href="#" class="text-xl font-medium text-green-500">Osman</a>
                 </div>
             </div>
             <div class="max-w-md p-4 bg-white rounded-lg shadow-lg">
                 <div class="flex justify-center -mt-16 md:justify-end">
                     <img class="object-cover w-20 h-20 border-2 border-green-500 rounded-full"
-                        src="https://cdn.pixabay.com/photo/2018/01/18/17/48/purchase-3090818__340.jpg">
+                        src="mehman3.jpg">
                 </div>
                 <div>
                     <h2 class="text-3xl font-semibold text-gray-800">Lezzettt !!</h2>
@@ -192,7 +192,7 @@
                         minus consequuntur!</p>
                 </div>
                 <div class="flex justify-end mt-4">
-                    <a href="#" class="text-xl font-medium text-green-500">Hakan</a>
+                    <a href="#" class="text-xl font-medium text-green-500">Yultuz</a>
                 </div>
             </div>
         </div>
